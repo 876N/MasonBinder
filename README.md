@@ -8,7 +8,7 @@
 
 ## Overview
 
-MasonBinder is a professional file binding utility that combines multiple files into a single self-extracting executable (.exe). Built with pure Win32 API in C for maximum performance and a classic light UI
+MasonBinder is a professional file binding utility that combines multiple files into a single self-extracting executable (.exe) Built with pure Win32 API in C for maximum performance and a classic light UI
 
 ---
 
